@@ -1,7 +1,7 @@
 ---
-title: Get Yours
+title: Prem Patel
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: I'm Prem Patel, a Web Developer with three years of experience, specializing in developing React apps with the best UX users can get.
 ---
 
 ## Hosting
